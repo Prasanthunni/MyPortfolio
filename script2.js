@@ -1,0 +1,20 @@
+var var_stdname = "Prasanth U"
+var var_fullname = "Prasanth U"
+var var_address = "Coimbatore, Tamilnadu"
+var var_email = "prasanthappu.unni@gmail.com"
+var var_phone = "8610558044"
+var var_linkedin = "https://www.linkedin.com/in/prasanthunni"
+var var_about = "I'm an Engineering aspirant, Tech Enthusiast. I am a native to Coimbatore and I am currently in my 4th year of Computer Science Engineering in V.S.B College of Engineering"
+var var_exp = "An Energitic, Talented and ambitious student with great skills and experience in Software Development. I have good knowledge and skills in C, Java, Python, HTML, MySQL"
+
+document.getElementById("idstdname").innerHTML = var_stdname;
+document.getElementById("idstdname1").innerHTML = var_stdname;
+document.getElementById("idabout").innerHTML = var_about;
+document.getElementById("idexp").innerHTML = var_exp;
+document.getElementById("idfullname").innerHTML = var_fullname;
+document.getElementById("idaddress").innerHTML = var_address;
+document.getElementById("idemail").innerHTML = var_email;
+document.getElementById("idaddress").innerHTML = var_address;
+document.getElementById("idemail").innerHTML = var_email;
+document.getElementById("idphone").innerHTML = var_phone;
+document.getElementById("idlinkedin").innerHTML = var_linkedin;
